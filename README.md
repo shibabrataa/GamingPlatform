@@ -24,8 +24,9 @@ The goal of this project is to build a decentralized gaming platform that reward
 
 - **Network**: EduChain
 - **GamingPlatform Contract**: 0xf0d887835f169a73d80cbe3db34320fafdb2b578
-0xf0d887835f169a73d80cbe3db34320fafdb2b578
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/d9f46a2f-266e-4b82-86da-5fd78b945f1a">
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/7d4d25b4-22b7-4037-b024-c4ff6be56503">
+
+
 
 ## Future Scope
 
